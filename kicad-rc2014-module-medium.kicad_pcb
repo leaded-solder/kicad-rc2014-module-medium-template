@@ -527,6 +527,5 @@
     (format (prefix "") (suffix "") (units 2) (units_format 1) (precision 4))
     (style (thickness 0.3) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0) keep_text_aligned)
   )
-  (target plus (at 103.4796 114.3762) (size 5) (width 0.15) (layer "Edge.Cuts") (tstamp 5ef9ddf1-180d-4119-9993-e804d8b0ae64))
 
 )
